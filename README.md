@@ -88,4 +88,4 @@ After running the above command, open the provided local URL in your browser to 
 
 
 # Deployed App URL:
-## (https://whatsappchatanalyse.streamlit.app/)
+## (http://whatsappchatanalyse.streamlit.app/)
