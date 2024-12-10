@@ -85,3 +85,7 @@ streamlit run app.py
 4. **Open the App**
 
 After running the above command, open the provided local URL in your browser to interact with the app.
+
+
+# Deployed App URL:
+## (https://whatsappchatanalyse.streamlit.app/)
