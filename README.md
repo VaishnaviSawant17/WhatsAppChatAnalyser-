@@ -61,26 +61,26 @@ To run this project locally, make sure you have **Python 3.x** installed.
 
 1. **Clone the Repository**
 
- <pre>```
+ <pre>
    git clone https://github.com/VaishnaviSawant17/WhatsAppChatAnalyser-.git
    cd WhatsAppChatAnalyser-
-   ```</pre>
+   </pre>
 
 2. **Install Required Libraries**
 
 Use pip to install the necessary libraries:
 
-<pre>```
+<pre>
 pip install streamlit pandas matplotlib seaborn wordcloud
- ```</pre>
+ </pre>
 
 3. **Run the App Locally**
 
 Start the Streamlit app:
 
-<pre>```
+<pre>
 streamlit run app.py
- ```</pre>
+ </pre>
 
 4. **Open the App**
 
